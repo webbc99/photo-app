@@ -26,6 +26,13 @@
 	.btn-danger:hover {
 		background-color: darken(#d9534f, 20%) !important;
 	}
+	.btn-primary:hover {
+		background-color: darken(#428bca, 20%) !important;
+	}
+}
+
+.no-left-padding {
+	padding-left: 0px !important;
 }
 
 .jumbotron {
